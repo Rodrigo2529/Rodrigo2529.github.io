@@ -88,7 +88,7 @@ html{
 }
 
 .inicio{
-    background:linear-gradient(to top, rgba(93, 88, 92, 0.486) 50%, hsla(218, 100%, 34%, 0.514) 100%), url(img/fondo1.jpg);
+    background:linear-gradient(to top, rgba(93, 88, 92, 0.486) 50%, hsla(218, 100%, 34%, 0.514) 100%), url(fondo1.jpg);
     background-size: cover;
     height: 100vh;
     color: #e3e3e3;
